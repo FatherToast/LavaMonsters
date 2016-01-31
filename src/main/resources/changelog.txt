@@ -1,0 +1,46 @@
+2.2.1
+    - Adjusted lava monsters' drops.
+2.2
+    - Changed lava monsters' texture.
+      - Now animated! (Can be disabled in config.)
+    - New properties!
+      - Properties now determine lava monsters' maximum health, minimum armor, attack speed, number of fireballs, etc.
+2.1
+    - Made SMP-compatible!
+    - Lava monsters are now registered within the mod (unlimited mob IDs).
+    - Depth hazard no longer applies to the Nether.
+2.0.2
+    - Updated to 1.4.6/1.4.7!
+2.0.1
+    - Re-implemented the vanilla AI system.
+    - Lava monsters now take damage from snowballs. (3 damage, same as blazes.)
+    - Fixed the name on the Lava Boots.
+    - New property!
+      - spawn_chance: the percent chance each attempt to spawn a lava monster will be successful - makes lava monsters less super common!
+2.0
+    - Updated to 1.4.4!
+    - Added a rare drop! Lava Boots: bright red leather boots with fire protection X.
+    - Fixed the bug that prevented lava monsters from appearing on fire when attacking.
+2.0
+    - Updated to 1.3.2!
+    - Now requires Minecraft Forge instead of ModLoader!
+    - New properties!
+      - Nether_spawn: allows you to prevent lava monsters from spawning in the Nether.
+      - spawn_frequency: how often the mod tries to spawn lava monsters - can improve performance and/or increase the rarity of lava monsters!
+    - Complete code rewrite!
+      - This mod should be easier to improve and update now.
+      - The source code should now make sense to people other than me!
+    - Probably some other things I forgot!
+1.2
+    - Finally awesome!
+    - No longer edits base classes!
+    - Added a properties file that adjusts spawn behavior!
+1.1
+    - Finally good!
+    - Complete code overhaul.
+    - Lava monsters now use updated pathfinding/AI and no longer randomly walk into water and commit suicide with unlimited screaming range.
+    - Lava monsters spawn in stationary lava!
+    - Lava monsters can no longer be heard from anywhere.
+    - Now modifies vf.class.
+1.0
+    - First release. Kinda sucky.

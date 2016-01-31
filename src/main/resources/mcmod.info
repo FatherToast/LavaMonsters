@@ -1,0 +1,16 @@
+[
+{
+  "modid": "LavaMonsters",
+  "name": "Lava Monsters",
+  "description": "Adds a new monster that spawns only in lava to add danger to otherwise boring lava pits.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "http://www.minecraftforum.net/topic/1153874-/",
+  "updateUrl": "",
+  "authorList": ["FatherToast"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
